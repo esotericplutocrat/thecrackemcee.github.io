@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<center>
+<a href="https://en.wikipedia.org/wiki/Audio_mastering">
+<h1> UNMASTERED </h1>
+</a>
+<img src="images/logo.png" align='center'>
+
+</center>
+<center>
+<h2> A Message for Kanye </h2>
+
+<audio controls>
+  <source src="music/kayne.mp3" type="audio/mpeg">
+  <source src="music/kayne.ogg" type="audio/ogg">
+</audio>
+
+<a href="music/kayne.mp3" download>
+<img src="images/download.png" align='center' height="42" width="42">
+</a>
+
+<a href="#">
+<img src="images/paypal.png" align='center'>
+</a>
+
+
+</center>
+
+
+
