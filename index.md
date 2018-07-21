@@ -9,7 +9,7 @@ layout: default
 
 </center>
 <center>
-<h2> A Message for Kanye </h2>
+<h2> A Message To Kanye </h2>
 
 <audio controls>
   <source src="music/kayne.mp3" type="audio/mpeg">
