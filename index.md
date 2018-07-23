@@ -3,13 +3,16 @@ layout: default
 ---
 <center>
 <a href="https://en.wikipedia.org/wiki/Audio_mastering">
-<h1> UNMASTERED </h1>
+<h1> <u>UNMASTERED </u></h1>
 </a>
+<h3> A New Political Series <br>
+By The Crack Emcee</h3>
 <img src="images/logo.png" align='center'>
 
 </center>
+
 <center>
-<h2> A Message To Kanye </h2>
+<h2> 1. A Message To Kanye </h2>
 
 <audio controls>
   <source src="music/kayne.mp3" type="audio/mpeg">
