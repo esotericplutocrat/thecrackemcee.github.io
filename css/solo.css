@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);
 @import url(https://fonts.googleapis.com/css?family=Oregano);
 @import url(https://fonts.googleapis.com/css?family=Orbitron);
-
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
 
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
@@ -56,7 +56,7 @@ h1 {
   color: #FF0000;
   text-rendering: optimizeLegibility;
   font-family: 'Orbitron';
-  font-size: 2.15rem;
+  font-size: 2.2rem;
   margin-bottom: 1rem;
   font-weight: 700;
   margin-left: -2rem;
@@ -78,7 +78,7 @@ h1 a {
 h2 {
   color: #FF0000;
   text-rendering: optimizeLegibility;
-  font-family: 'Oregano';
+  font-family: 'Quicksand';
   line-height: 1.2
   margin-top: 2rem;
   font-size: 1.75rem;
@@ -100,8 +100,9 @@ h2 {
 
 h3 {
   margin: 2rem -2rem 1.75rem -2rem;
+  font-family: 'Quicksand';
   margin-top: 2rem;
-  font-size: 1.75rem;
+  font-size: 1.8rem;
 }
 
 @media (min-width: 30rem) {
