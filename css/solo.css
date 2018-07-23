@@ -81,7 +81,7 @@ h2 {
   font-family: 'Quicksand';
   line-height: 1.2
   margin-top: 2rem;
-  font-size: 1.75rem;
+  font-size: 1rem;
   font-weight: 500;
   margin-bottom: 1rem;
   text-align: center;
@@ -92,7 +92,7 @@ h2 {
 @media (min-width: 30rem) {
   h2 {
     margin-top: 2.5rem;
-    font-size: 1.75rem;
+    font-size: 1rem;
     margin-bottom: 1rem;
     margin-right: -2rem;
   }
@@ -102,13 +102,13 @@ h3 {
   margin: 2rem -2rem 1.75rem -2rem;
   font-family: 'Quicksand';
   margin-top: 2rem;
-  font-size: 1.8rem;
+  font-size: 1rem;
 }
 
 @media (min-width: 30rem) {
   h3 {
     margin-top: 2.5rem;
-    font-size: 2rem;
+    font-size: 1.3rem;
     margin-bottom: 1.5rem;
   }
 }
