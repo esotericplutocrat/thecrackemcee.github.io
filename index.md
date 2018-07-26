@@ -5,7 +5,7 @@ layout: default
 <a href="https://en.wikipedia.org/wiki/Audio_mastering">
 <h1> <u>UNMASTERED </u></h1>
 </a>
-<h3> A New <a href="https://reason.com/blog/2018/04/27/black-people-dont-have-to-be-democrats">Political</a> Series By The Crack Emcee</h3>
+<h3> A New <a href="https://reason.com/blog/2018/04/27/black-people-dont-have-to-be-democrats" style=" text-decoration: none;"><u>Political</u></a> Series By The Crack Emcee</h3>
 <img src="images/logo.png" align='center'>
 
 </center>
