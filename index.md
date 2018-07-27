@@ -6,7 +6,9 @@ layout: default
 <h1> <u>UNMASTERED </u></h1>
 </a>
 <h3> A New <a href="https://reason.com/blog/2018/04/27/black-people-dont-have-to-be-democrats"><u>Political</u></a> Series By The Crack Emcee</h3>
+  <a href="https://www.nationalreview.com/2010/12/can-conservatives-win-back-arts-andrew-klavan/">
 <img src="images/logo.png" align='center'>
+    </a>
 
 </center>
 
