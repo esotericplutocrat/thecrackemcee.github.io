@@ -5,7 +5,7 @@ layout: default
 <a href="https://en.wikipedia.org/wiki/Audio_mastering">
 <h1> <u>UNMASTERED </u></h1>
 </a>
-<h3> A New <a href="https://reason.com/blog/2018/04/27/black-people-dont-have-to-be-democrats"><u>Political</u></a> Series By The Crack Emcee</h3>
+<h3> A New <a href="https://www.popsugar.com/celebrity/Kim-Kardashian-Talks-About-Kanye-Trump-Jimmy-Kimmel-45118370"><u>Political</u></a> Series By The Crack Emcee</h3>
   <a href="https://www.nationalreview.com/2010/12/can-conservatives-win-back-arts-andrew-klavan/">
 <img src="images/logo.png" align='center'>
     </a>
@@ -13,7 +13,7 @@ layout: default
 </center>
 
 <center>
-<h2> 1. A Message To Kanye </h2>
+<h2> 1. A <a href="https://reason.com/blog/2018/04/27/black-people-dont-have-to-be-democrats"><u>Message</u></a> To Kanye </h2>
 
 <audio controls>
   <source src="music/kayne.mp3" type="audio/mpeg">
