@@ -39,7 +39,7 @@ layout: default
 </a>
 
 
-<h2><a href="https://www.breitbart.com/big-hollywood/2013/05/12/conservative-art-progressives-attack/"><u>Support this series with PayPal & Patreon</u></a></h2>
+<h2><a href="https://www.breitbart.com/big-hollywood/2013/05/12/conservative-art-progressives-attack/"><u>Support this series with PayPal </u></a> & Patreon</h2>
 
 
 
