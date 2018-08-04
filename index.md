@@ -24,7 +24,7 @@ layout: default
 <img src="images/download.png" align='center' height="42" width="42">
 </a>
 
-<a href="#">
+<a href="https://www.paypal.me/unmastered">
 <img src="images/paypal.png" align='center'>
 </a>
 
