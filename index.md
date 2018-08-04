@@ -57,8 +57,9 @@ layout: default
    
 </div>
 
+<center>
 Make a donation (whether in appreciation for a track or for mastering the finished project as an album) or set up another arrangement in support of The Crack Emcee.
 
-
+</center>
 
 
