@@ -11,7 +11,7 @@ layout: default
 			.img-wrap > a{
  					display:inline-block;
  					vertical-align: middle;
- 					border: 1px solid #555
+ 					
 			}
 </style>
 
