@@ -39,8 +39,10 @@ layout: default
 </a>
 
 
-<h2><a href="https://www.breitbart.com/big-hollywood/2013/05/12/conservative-art-progressives-attack/"><b><u>Support this series with PayPal & Patreon</b></u></a></h2>
+<h2><a href="https://www.breitbart.com/big-hollywood/2013/05/12/conservative-art-progressives-attack/"><u>Support this series with PayPal & Patreon</u></a></h2>
+
 <p>Make a donation (whether in appreciation for a track or for mastering the finished project as an album) or set up another arrangement in support of The Crack Emcee.</p>
+
 </center>
 
 <div class="img-wrap">
