@@ -39,7 +39,7 @@ layout: default
 </a>
 
 
-<h3><b>Support this series with PayPal & Patreon</b></h3>
+<h2><b>Support this series with PayPal & Patreon</b></h2>
 <p>Make a donation (whether in appreciation for a track or for mastering the finished project as an album) or set up another arrangement in support of The Crack Emcee.</p>
 </center>
 
