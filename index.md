@@ -37,6 +37,10 @@ layout: default
 <a href="music/kayne.mp3" download>
 <img src="images/download.png" align='center' height="42" width="42">
 </a>
+
+
+<h3><b>Support this series with PayPal & Patreon</b></h3>
+<p>Make a donation (whether in appreciation for a track or for mastering the finished project as an album) or set up another arrangement in support of The Crack Emcee.</p>
 </center>
 
 <div class="img-wrap">
