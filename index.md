@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
+<style type="text/css">
+			.img-wrap, h1{
+				text-align: center;
+	    }
+			.img-wrap a img{
+ 					display:block;
+			}
+			.img-wrap > a{
+ 					display:inline-block;
+ 					vertical-align: middle;
+ 					border: 1px solid #555
+			}
+</style>
+
 <center>
 <a href="https://en.wikipedia.org/wiki/Audio_mastering">
 <h1> <u>UNMASTERED </u></h1>
@@ -23,21 +37,21 @@ layout: default
 <a href="music/kayne.mp3" download>
 <img src="images/download.png" align='center' height="42" width="42">
 </a>
+</center>
 
-<div class="abc">
- <div class="xyz">
-    <a href="https://www.paypal.me/unmastered">
-    <img src="images/paypal.png" align='center'>
-    </a>
- </div> 
- <div class="xyz">
-    <a href="https://www.patreon.com/thecrackemcee">
-    <img src="images/patreon.png" align='center'>
-    </a>
- </div>
+<div class="img-wrap">
+
+   <a href="https://www.paypal.me/unmastered">
+   <img src="images/paypal.png" align='center'>
+   </a>
+   
+   <a href="https://www.patreon.com/thecrackemcee">
+   <img src="images/patreon.png" align='center'>
+   </a>
+   
 </div>
 
-</center>
+
 
 
 
