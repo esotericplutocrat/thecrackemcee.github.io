@@ -24,13 +24,13 @@ layout: default
 <img src="images/download.png" align='center' height="42" width="42">
 </a>
 
-<div class="row">
- <div class="column">
+<div class="abc">
+ <div class="xyz">
     <a href="https://www.paypal.me/unmastered">
     <img src="images/paypal.png" align='center'>
     </a>
  </div> 
- <div class="column">
+ <div class="xyz">
     <a href="https://www.patreon.com/thecrackemcee">
     <img src="images/patreon.png" align='center'>
     </a>
