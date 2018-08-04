@@ -5,7 +5,7 @@ layout: default
 <a href="https://en.wikipedia.org/wiki/Audio_mastering">
 <h1> <u>UNMASTERED </u></h1>
 </a>
-<h3> A New <a href="https://www.popsugar.com/celebrity/Kim-Kardashian-Talks-About-Kanye-Trump-Jimmy-Kimmel-45118370"><u>Political</u></a> Series By The Crack Emcee</h3>
+<h3> A New <a href="https://www.popsugar.com/celebrity/Kim-Kardashian-Talks-About-Kanye-Trump-Jimmy-Kimmel-45118370"><u>Political</u></a> Series By <a href="mailto:thecrackemcee@gmail.com"><u>The Crack Emcee</u></a></h3>
   <a href="https://www.nationalreview.com/2010/12/can-conservatives-win-back-arts-andrew-klavan/">
 <img src="images/logo.png" align='center'>
     </a>
