@@ -38,7 +38,7 @@ layout: default
 <img src="images/download.png" align='center' height="42" width="42">
 </a>
 
-<h2> 2. The Republican Record [Demo] </h2>
+<h2> 2. The <a href="https://www.npr.org/sections/codeswitch/2018/05/04/605531828/what-the-kanye-controversy-can-teach-us-about-black-voters"><u>Republican</u></a> Record [Demo] </h2>
 
 <audio controls>
   <source src="music/rep-rec.mp3" type="audio/mpeg">
