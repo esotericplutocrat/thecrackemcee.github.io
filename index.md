@@ -49,6 +49,17 @@ layout: default
 <img src="images/download.png" align='center' height="42" width="42">
 </a>
 
+<h2> 3. Interlude_The Black Whole (Between Two Oceans)</h2>
+
+<audio controls>
+  <source src="music/interlude.mp3" type="audio/mpeg">
+  <source src="music/interlude.ogg" type="audio/ogg">
+</audio>
+
+<a href="music/interlude.mp3" download>
+<img src="images/download.png" align='center' height="42" width="42">
+</a>
+
 
 <h4><a href="https://www.breitbart.com/big-hollywood/2013/05/12/conservative-art-progressives-attack/"><u>Support this series with PayPal & Patreon </u></a></h4>
 
